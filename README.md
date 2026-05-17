@@ -1,3 +1,3 @@
 # Practice-cpp
 It's my first Repositroy about C++.
-<br> Author : Ilyas Khan
+<br> Author : Ilyas jani
